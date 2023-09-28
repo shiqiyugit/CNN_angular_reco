@@ -1,0 +1,19 @@
+#!/bin/bash --login
+
+########### SBATCH Lines for Resource Request ##########
+
+#SBATCH --time=00:20:00             # limit of wall clock time - how long the job will run (same as -t)
+#SBATCH --nodes=1                 # number of different nodes - could be an exact number or a range of nodes (same as -N)
+#SBATCH --mem=45G            # memory required per allocated CPU (or core) - amount of memory (in bytes)
+#SBATCH --job-name NuMu_genie_149999_077997_level6.zst      # you can give your job a name for easier identification (same as -J)
+#SBATCH --output /mnt/home/yushiqi2/Analysis/LowEnergyNeuralNetwork/data_pre/create_hdf5/IC_Files/log/NuMu_genie_149999_077997_level6.zst.log
+
+########### Command Lines to Run ##################
+
+source ~/Documents/setup_combo_stable.sh
+
+#python /mnt/home/yushiqi2/Analysis/LowEnergyNeuralNetwork/data_pre/i3_to_hdf5.py -i /mnt/research/IceCube/jmicallef/simulation/level6/149999/NuMu_genie_149999_077997_level6.zst -o /mnt/scratch/yushiqi2/hdf5_allIC/ 
+
+python /mnt/home/yushiqi2/Analysis/LowEnergyNeuralNetwork/data_pre/i3_to_hdf5_pulses.py -i /mnt/research/IceCube/jmicallef/simulation/level6/149999/NuMu_genie_149999_077997_level6.zst -o /mnt/scratch/yushiqi2/hdf5_allIC/ --icring "all,all,all,all"
+
+exit $?

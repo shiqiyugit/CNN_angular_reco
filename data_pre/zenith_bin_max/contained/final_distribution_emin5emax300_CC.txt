@@ -1,0 +1,2 @@
+Cutting there gives total events: 24543
+Bin	 Energy	 Number Events

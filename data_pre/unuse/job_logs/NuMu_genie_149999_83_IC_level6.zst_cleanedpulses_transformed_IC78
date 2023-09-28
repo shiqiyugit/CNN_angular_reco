@@ -1,0 +1,680 @@
+Keeping CC event types
+Saving PEGLEG info: False 
+Bin size: 0.010000 GeV 
+Max Count Per Bin: 20000 events 
+Energy Range: 0.010000 - 5.000000 
+Starting cut: contained_start 
+Ending cut: contained_end 
+Shuffling: True 
+Keeping event types: CC
+Assuming file is already transformed by 100.000000 for energy and 200.000000 for track, and zenith
+Total events this file: 634
+Total events saved: 523, Saved this file: 523, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_000883_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 260
+Total events saved: 700, Saved this file: 177, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_003483_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 281
+Total events saved: 914, Saved this file: 214, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_004983_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 686
+Total events saved: 1458, Saved this file: 544, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_005983_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 852
+Total events saved: 2156, Saved this file: 698, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_006083_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 948
+Total events saved: 2900, Saved this file: 744, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_006183_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1272
+Total events saved: 3903, Saved this file: 1003, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_006283_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 925
+Total events saved: 4648, Saved this file: 745, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_006383_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1128
+Total events saved: 5622, Saved this file: 974, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_006483_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1226
+Total events saved: 6579, Saved this file: 957, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_006583_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1479
+Total events saved: 7807, Saved this file: 1228, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_006683_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1627
+Total events saved: 9161, Saved this file: 1354, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_006783_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 906
+Total events saved: 9857, Saved this file: 696, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_006883_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 471
+Total events saved: 10296, Saved this file: 439, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_007283_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1608
+Total events saved: 11596, Saved this file: 1300, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_007383_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1657
+Total events saved: 12963, Saved this file: 1367, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_007483_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1636
+Total events saved: 14289, Saved this file: 1326, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_007583_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1663
+Total events saved: 15643, Saved this file: 1354, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_007683_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1184
+Total events saved: 16563, Saved this file: 920, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_007883_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1683
+Total events saved: 17935, Saved this file: 1372, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_007983_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1414
+Total events saved: 19087, Saved this file: 1152, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_008083_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1239
+Total events saved: 20061, Saved this file: 974, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_008183_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1648
+Total events saved: 21386, Saved this file: 1325, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_008283_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1694
+Total events saved: 22771, Saved this file: 1385, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_008383_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1697
+Total events saved: 24159, Saved this file: 1388, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_008483_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 997
+Total events saved: 24962, Saved this file: 803, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_008583_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 756
+Total events saved: 25603, Saved this file: 641, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_008683_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1667
+Total events saved: 27001, Saved this file: 1398, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_008783_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1649
+Total events saved: 28365, Saved this file: 1364, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_009383_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1373
+Total events saved: 29510, Saved this file: 1145, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_009483_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1683
+Total events saved: 30887, Saved this file: 1377, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_009583_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1649
+Total events saved: 32224, Saved this file: 1337, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_009683_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1180
+Total events saved: 33171, Saved this file: 947, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_009883_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1615
+Total events saved: 34477, Saved this file: 1306, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_009983_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 320
+Total events saved: 34723, Saved this file: 246, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_010183_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 502
+Total events saved: 35138, Saved this file: 415, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_010383_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 560
+Total events saved: 35626, Saved this file: 488, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_011083_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 272
+Total events saved: 35832, Saved this file: 206, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_011183_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 509
+Total events saved: 36262, Saved this file: 430, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_011483_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 517
+Total events saved: 36700, Saved this file: 438, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_011683_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 301
+Total events saved: 36922, Saved this file: 222, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_011883_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 527
+Total events saved: 37309, Saved this file: 387, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_012183_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1097
+Total events saved: 38176, Saved this file: 867, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_012283_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 565
+Total events saved: 38594, Saved this file: 418, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_012483_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 271
+Total events saved: 38803, Saved this file: 209, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_012583_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 524
+Total events saved: 39170, Saved this file: 367, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_012683_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 878
+Total events saved: 39807, Saved this file: 637, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_012783_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1101
+Total events saved: 40673, Saved this file: 866, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_012883_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 784
+Total events saved: 41286, Saved this file: 613, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_012983_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 745
+Total events saved: 41880, Saved this file: 594, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_013083_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 821
+Total events saved: 42534, Saved this file: 654, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_013183_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 805
+Total events saved: 43180, Saved this file: 646, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_013383_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1121
+Total events saved: 44049, Saved this file: 869, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_014083_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 837
+Total events saved: 44704, Saved this file: 655, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_014183_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 764
+Total events saved: 45310, Saved this file: 606, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_014383_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 538
+Total events saved: 45693, Saved this file: 383, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_014483_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 563
+Total events saved: 46106, Saved this file: 413, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_014583_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1142
+Total events saved: 46980, Saved this file: 874, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_014683_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 807
+Total events saved: 47624, Saved this file: 644, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_014783_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1064
+Total events saved: 48467, Saved this file: 843, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_014883_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1138
+Total events saved: 49378, Saved this file: 911, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_014983_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1121
+Total events saved: 50265, Saved this file: 887, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_015083_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 812
+Total events saved: 50906, Saved this file: 641, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_015183_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 922
+Total events saved: 51590, Saved this file: 684, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_015283_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1082
+Total events saved: 52454, Saved this file: 864, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_015383_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1034
+Total events saved: 53262, Saved this file: 808, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_015483_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 244
+Total events saved: 53436, Saved this file: 174, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_015683_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 586
+Total events saved: 53913, Saved this file: 477, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_015783_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 560
+Total events saved: 54397, Saved this file: 484, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_015883_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 4
+Total events saved: 54400, Saved this file: 3, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_015983_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 196
+Total events saved: 54515, Saved this file: 115, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_020083_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 169
+Total events saved: 54620, Saved this file: 105, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_020183_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 178
+Total events saved: 54730, Saved this file: 110, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_020383_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 348
+Total events saved: 54952, Saved this file: 222, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_020583_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 177
+Total events saved: 55063, Saved this file: 111, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_020683_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 398
+Total events saved: 55308, Saved this file: 245, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_020783_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 393
+Total events saved: 55558, Saved this file: 250, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_020983_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 180
+Total events saved: 55665, Saved this file: 107, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_021183_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 375
+Total events saved: 55898, Saved this file: 233, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_021483_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 349
+Total events saved: 56127, Saved this file: 229, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_021583_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 387
+Total events saved: 56365, Saved this file: 238, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_021883_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 180
+Total events saved: 56474, Saved this file: 109, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_022083_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 390
+Total events saved: 56722, Saved this file: 248, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_022883_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 240
+Total events saved: 56867, Saved this file: 145, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_024983_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 495
+Total events saved: 57159, Saved this file: 292, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_025383_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 181
+Total events saved: 57270, Saved this file: 111, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_025483_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 161
+Total events saved: 57365, Saved this file: 95, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_025583_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 433
+Total events saved: 57668, Saved this file: 303, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_025683_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 616
+Total events saved: 58080, Saved this file: 412, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_025883_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 527
+Total events saved: 58410, Saved this file: 330, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_025983_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 756
+Total events saved: 58880, Saved this file: 470, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_026183_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 386
+Total events saved: 59134, Saved this file: 254, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_026283_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 451
+Total events saved: 59421, Saved this file: 287, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_026383_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 349
+Total events saved: 59620, Saved this file: 199, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_026483_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 668
+Total events saved: 60042, Saved this file: 422, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_026783_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 203
+Total events saved: 60168, Saved this file: 126, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_026883_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1257
+Total events saved: 60981, Saved this file: 813, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_026983_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 214
+Total events saved: 61124, Saved this file: 143, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_027183_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 494
+Total events saved: 61421, Saved this file: 297, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_027283_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 588
+Total events saved: 61814, Saved this file: 393, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_027683_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 626
+Total events saved: 62218, Saved this file: 404, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_027783_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 806
+Total events saved: 62713, Saved this file: 495, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_027883_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 313
+Total events saved: 62910, Saved this file: 197, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_028083_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 804
+Total events saved: 63433, Saved this file: 523, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_028183_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1363
+Total events saved: 64305, Saved this file: 872, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_028383_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 14
+Total events saved: 64317, Saved this file: 12, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_028683_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 604
+Total events saved: 64693, Saved this file: 376, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_028783_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 16
+Total events saved: 64704, Saved this file: 11, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_028883_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 440
+Total events saved: 64986, Saved this file: 282, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_029083_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 711
+Total events saved: 65447, Saved this file: 461, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_029183_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 569
+Total events saved: 65835, Saved this file: 388, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_029283_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 227
+Total events saved: 65986, Saved this file: 151, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_029383_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 152
+Total events saved: 66074, Saved this file: 88, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_029483_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1
+Total events saved: 66075, Saved this file: 1, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_029583_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 84
+Total events saved: 66130, Saved this file: 55, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_029983_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 634
+Total events saved: 66752, Saved this file: 622, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_030083_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1103
+Total events saved: 67836, Saved this file: 1084, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_030183_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 618
+Total events saved: 68444, Saved this file: 608, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_030283_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 897
+Total events saved: 69329, Saved this file: 885, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_030383_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 569
+Total events saved: 69891, Saved this file: 562, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_030483_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 596
+Total events saved: 70477, Saved this file: 586, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_030583_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 321
+Total events saved: 70790, Saved this file: 313, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_030683_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 948
+Total events saved: 71722, Saved this file: 932, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_030783_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1021
+Total events saved: 72723, Saved this file: 1001, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_030883_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1040
+Total events saved: 73745, Saved this file: 1022, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_030983_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1045
+Total events saved: 74769, Saved this file: 1024, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_031083_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 737
+Total events saved: 75497, Saved this file: 728, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_031183_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1009
+Total events saved: 76495, Saved this file: 998, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_031283_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1022
+Total events saved: 77503, Saved this file: 1008, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_031383_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 991
+Total events saved: 78475, Saved this file: 972, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_031483_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1003
+Total events saved: 79450, Saved this file: 975, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_031583_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1006
+Total events saved: 80429, Saved this file: 979, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_031683_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1053
+Total events saved: 81468, Saved this file: 1039, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_031783_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 954
+Total events saved: 82413, Saved this file: 945, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_031883_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1035
+Total events saved: 83433, Saved this file: 1020, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_031983_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1024
+Total events saved: 84442, Saved this file: 1009, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_032083_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1013
+Total events saved: 85442, Saved this file: 1000, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_032183_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 988
+Total events saved: 86416, Saved this file: 974, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_032283_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 997
+Total events saved: 87392, Saved this file: 976, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_032383_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1000
+Total events saved: 88377, Saved this file: 985, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_032483_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1038
+Total events saved: 89401, Saved this file: 1024, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_032583_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1034
+Total events saved: 90420, Saved this file: 1019, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_032683_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 980
+Total events saved: 91389, Saved this file: 969, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_032783_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1016
+Total events saved: 92388, Saved this file: 999, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_032883_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1006
+Total events saved: 93379, Saved this file: 991, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_032983_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1062
+Total events saved: 94424, Saved this file: 1045, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_033083_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 971
+Total events saved: 95383, Saved this file: 959, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_033183_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1053
+Total events saved: 96417, Saved this file: 1034, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_033283_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 978
+Total events saved: 97382, Saved this file: 965, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_033383_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1010
+Total events saved: 98373, Saved this file: 991, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_033483_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1026
+Total events saved: 99381, Saved this file: 1008, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_033583_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1075
+Total events saved: 100446, Saved this file: 1065, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_033683_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1016
+Total events saved: 101450, Saved this file: 1004, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_033783_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1063
+Total events saved: 102506, Saved this file: 1056, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_033883_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1007
+Total events saved: 103502, Saved this file: 996, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_033983_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 208
+Total events saved: 103625, Saved this file: 123, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_034383_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 159
+Total events saved: 103711, Saved this file: 86, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_034583_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 209
+Total events saved: 103849, Saved this file: 138, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_034683_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 149
+Total events saved: 103934, Saved this file: 85, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_035083_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 269
+Total events saved: 104124, Saved this file: 190, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_035283_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 41
+Total events saved: 104149, Saved this file: 25, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_035583_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 182
+Total events saved: 104252, Saved this file: 103, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_037083_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 258
+Total events saved: 104425, Saved this file: 173, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_037283_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 203
+Total events saved: 104564, Saved this file: 139, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_037383_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 175
+Total events saved: 104668, Saved this file: 104, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_037483_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 253
+Total events saved: 104838, Saved this file: 170, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_037583_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 265
+Total events saved: 105021, Saved this file: 183, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_037683_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 201
+Total events saved: 105132, Saved this file: 111, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_037783_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 420
+Total events saved: 105417, Saved this file: 285, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_037883_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 245
+Total events saved: 105579, Saved this file: 162, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_038183_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 255
+Total events saved: 105756, Saved this file: 177, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_038483_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 178
+Total events saved: 105878, Saved this file: 122, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_038583_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 410
+Total events saved: 106146, Saved this file: 268, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_038683_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 217
+Total events saved: 106290, Saved this file: 144, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_039083_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 230
+Total events saved: 106441, Saved this file: 151, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_039783_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 618
+Total events saved: 106853, Saved this file: 412, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_039983_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 198
+Total events saved: 106981, Saved this file: 128, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_040083_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 577
+Total events saved: 107342, Saved this file: 361, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_040483_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 462
+Total events saved: 107650, Saved this file: 308, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_040583_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 197
+Total events saved: 107773, Saved this file: 123, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_040683_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 166
+Total events saved: 107873, Saved this file: 100, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_040783_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 358
+Total events saved: 108082, Saved this file: 209, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_040883_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 168
+Total events saved: 108180, Saved this file: 98, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_041183_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 200
+Total events saved: 108297, Saved this file: 117, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_041483_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 238
+Total events saved: 108442, Saved this file: 145, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_042083_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 185
+Total events saved: 108558, Saved this file: 116, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_042383_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 502
+Total events saved: 108907, Saved this file: 349, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_043783_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 821
+Total events saved: 109448, Saved this file: 541, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_044683_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 237
+Total events saved: 109610, Saved this file: 162, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_044783_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 583
+Total events saved: 109977, Saved this file: 367, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_045083_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 2
+Total events saved: 109978, Saved this file: 1, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_045183_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 161
+Total events saved: 110080, Saved this file: 102, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_045283_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 371
+Total events saved: 110317, Saved this file: 237, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_045383_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 677
+Total events saved: 110736, Saved this file: 419, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_045483_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 542
+Total events saved: 111095, Saved this file: 359, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_045783_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 90
+Total events saved: 111150, Saved this file: 55, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_045883_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 869
+Total events saved: 111730, Saved this file: 580, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_045983_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1170
+Total events saved: 112481, Saved this file: 751, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_046083_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 801
+Total events saved: 113004, Saved this file: 523, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_046183_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 216
+Total events saved: 113132, Saved this file: 128, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_046283_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 198
+Total events saved: 113260, Saved this file: 128, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_046383_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 195
+Total events saved: 113378, Saved this file: 118, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_046683_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 220
+Total events saved: 113520, Saved this file: 142, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_048583_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1103
+Total events saved: 114209, Saved this file: 689, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_049083_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 196
+Total events saved: 114337, Saved this file: 128, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_049283_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 203
+Total events saved: 114462, Saved this file: 125, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_049483_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 356
+Total events saved: 114673, Saved this file: 211, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_049983_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 512
+Total events saved: 114968, Saved this file: 295, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_050283_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 709
+Total events saved: 115402, Saved this file: 434, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_050383_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 539
+Total events saved: 115751, Saved this file: 349, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_050483_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 977
+Total events saved: 116383, Saved this file: 632, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_050583_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 20
+Total events saved: 116397, Saved this file: 14, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_050683_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 176
+Total events saved: 116496, Saved this file: 99, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_050783_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 378
+Total events saved: 116741, Saved this file: 245, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_050983_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 375
+Total events saved: 116974, Saved this file: 233, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_051283_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 162
+Total events saved: 117073, Saved this file: 99, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_051483_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 369
+Total events saved: 117311, Saved this file: 238, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_051783_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1184
+Total events saved: 118077, Saved this file: 766, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_051983_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1104
+Total events saved: 118781, Saved this file: 704, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_052083_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 938
+Total events saved: 119375, Saved this file: 594, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_052183_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 419
+Total events saved: 119651, Saved this file: 276, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_052383_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 2
+Total events saved: 119653, Saved this file: 2, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_052583_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 278
+Total events saved: 119840, Saved this file: 187, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_052783_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 8
+Total events saved: 119843, Saved this file: 3, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_052883_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 389
+Total events saved: 120091, Saved this file: 248, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_052983_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 12
+Total events saved: 120099, Saved this file: 8, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_053083_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 8
+Total events saved: 120104, Saved this file: 5, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_053283_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1129
+Total events saved: 120837, Saved this file: 733, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_053383_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 311
+Total events saved: 121031, Saved this file: 194, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_053483_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1123
+Total events saved: 121752, Saved this file: 721, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_053683_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 193
+Total events saved: 121869, Saved this file: 117, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_053783_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 864
+Total events saved: 122424, Saved this file: 555, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_053883_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1115
+Total events saved: 123156, Saved this file: 732, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_053983_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 418
+Total events saved: 123415, Saved this file: 259, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_054483_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 209
+Total events saved: 123554, Saved this file: 139, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_054583_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 480
+Total events saved: 123854, Saved this file: 300, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_054683_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 164
+Total events saved: 123962, Saved this file: 108, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_055283_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 330
+Total events saved: 124176, Saved this file: 214, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_055583_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1
+Total events saved: 124177, Saved this file: 1, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_055683_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 213
+Total events saved: 124313, Saved this file: 136, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_056083_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 247
+Total events saved: 124476, Saved this file: 163, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_056483_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 247
+Total events saved: 124635, Saved this file: 159, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_056583_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 167
+Total events saved: 124726, Saved this file: 91, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_056783_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 2
+Total events saved: 124727, Saved this file: 1, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_057383_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1110
+Total events saved: 125418, Saved this file: 691, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_058083_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1019
+Total events saved: 126077, Saved this file: 659, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_058183_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1126
+Total events saved: 126794, Saved this file: 717, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_058283_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 106
+Total events saved: 126869, Saved this file: 75, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_058383_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 958
+Total events saved: 127494, Saved this file: 625, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_058483_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 968
+Total events saved: 128111, Saved this file: 617, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_058583_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 598
+Total events saved: 128478, Saved this file: 367, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_058783_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1074
+Total events saved: 129149, Saved this file: 671, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_058883_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 542
+Total events saved: 129487, Saved this file: 338, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_058983_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 966
+Total events saved: 130113, Saved this file: 626, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_059283_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 771
+Total events saved: 130612, Saved this file: 499, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_059383_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 599
+Total events saved: 130989, Saved this file: 377, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_059483_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 761
+Total events saved: 131455, Saved this file: 466, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_059583_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 590
+Total events saved: 131840, Saved this file: 385, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_059683_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1001
+Total events saved: 132481, Saved this file: 641, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_059783_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 784
+Total events saved: 132988, Saved this file: 507, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_059883_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 155
+Total events saved: 133073, Saved this file: 85, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_060983_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 690
+Total events saved: 133516, Saved this file: 443, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_061283_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 236
+Total events saved: 133674, Saved this file: 158, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_061383_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1126
+Total events saved: 134389, Saved this file: 715, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_061683_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 2
+Total events saved: 134390, Saved this file: 1, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_061883_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 240
+Total events saved: 134550, Saved this file: 160, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_061983_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 442
+Total events saved: 134857, Saved this file: 307, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_062183_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 11
+Total events saved: 134865, Saved this file: 8, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_062283_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 978
+Total events saved: 135506, Saved this file: 641, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_062483_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 730
+Total events saved: 135963, Saved this file: 457, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_062683_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1
+Total events saved: 135963, Saved this file: 0, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_062783_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1164
+Total events saved: 136704, Saved this file: 741, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_063283_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 3
+Total events saved: 136707, Saved this file: 3, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_063483_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 171
+Total events saved: 136820, Saved this file: 113, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_063783_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 69
+Total events saved: 136862, Saved this file: 42, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_063983_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 139
+Total events saved: 136951, Saved this file: 89, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_064183_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1141
+Total events saved: 137659, Saved this file: 708, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_064283_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1081
+Total events saved: 138339, Saved this file: 680, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_064383_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 376
+Total events saved: 138585, Saved this file: 246, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_064883_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1
+Total events saved: 138585, Saved this file: 0, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_064983_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 408
+Total events saved: 138832, Saved this file: 247, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_065083_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 529
+Total events saved: 139167, Saved this file: 335, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_065183_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 251
+Total events saved: 139335, Saved this file: 168, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_066783_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 207
+Total events saved: 139453, Saved this file: 118, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_067083_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 199
+Total events saved: 139578, Saved this file: 125, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_067483_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 164
+Total events saved: 139683, Saved this file: 105, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_067883_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 203
+Total events saved: 139809, Saved this file: 126, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_067983_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 151
+Total events saved: 139906, Saved this file: 97, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_068283_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 254
+Total events saved: 140075, Saved this file: 169, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_068383_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 158
+Total events saved: 140171, Saved this file: 96, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_068683_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 383
+Total events saved: 140423, Saved this file: 252, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_069483_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 160
+Total events saved: 140517, Saved this file: 94, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_069683_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 234
+Total events saved: 140677, Saved this file: 160, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_069783_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 18
+Total events saved: 140692, Saved this file: 15, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_070883_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 22
+Total events saved: 140707, Saved this file: 15, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_071783_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 182
+Total events saved: 140820, Saved this file: 113, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_072483_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 156
+Total events saved: 140923, Saved this file: 103, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_073083_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 427
+Total events saved: 141192, Saved this file: 269, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_073183_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 627
+Total events saved: 141609, Saved this file: 417, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_073783_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 206
+Total events saved: 141737, Saved this file: 128, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_073883_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 262
+Total events saved: 141907, Saved this file: 170, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_075483_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 377
+Total events saved: 142131, Saved this file: 224, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_075783_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 360
+Total events saved: 142347, Saved this file: 216, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_075883_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 227
+Total events saved: 142488, Saved this file: 141, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_076883_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 189
+Total events saved: 142604, Saved this file: 116, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_077183_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 1
+Total events saved: 142605, Saved this file: 1, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_077283_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 412
+Total events saved: 142860, Saved this file: 255, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_077783_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Total events this file: 164
+Total events saved: 142951, Saved this file: 91, Finsihed file: /mnt/scratch/yushiqi2/hdf5_allIC/NuMu_genie_149999_077983_level6.zst_cleanedpulses_transformed_IC78.hdf5
+Finished concatonating all the files. Now I will shuffle..
+[   96.   832.  3134.  6857. 10951. 15816.   274.   343.   397.   454.
+   534.   581.   656.   752.   750.   840.   791.   872.   965.   245.
+   295.   301.   315.   302.   266.   311.   326.   319.   340.   323.
+   307.   306.   319.   351.   328.   365.   301.   331.   332.   419.
+   423.   428.   403.   464.   421.   405.   370.   395.   424.   440.
+   459.   419.   419.   441.   469.   424.   414.   433.   414.   422.
+   411.   384.   446.   418.   405.   405.   363.   386.   369.   377.
+   405.   411.   350.   358.   367.   374.   350.   358.   372.   259.
+   234.   275.   243.   215.   231.   258.   208.   246.   208.   224.
+   231.   199.   218.   233.   222.   225.   205.   208.   233.   236.
+   228.   212.   207.   228.   189.   199.   199.   233.   215.   200.
+   218.   225.   185.   219.   227.   221.   231.   258.   237.   236.
+   218.   214.   220.   203.   221.   213.   216.   204.   202.   223.
+   236.   222.   211.   215.   229.   230.   202.   197.   185.   211.
+   199.   213.   222.   206.   203.   225.   185.   187.   199.   258.
+   239.   252.   273.   274.   261.   259.   235.   249.   243.   266.
+   241.   274.   241.   247.   252.   227.   238.   221.   252.   254.
+   229.   244.   239.   200.   225.   198.   250.   218.   223.   222.
+   214.   237.   227.   229.   212.   265.   225.   234.   224.   225.
+   235.   224.   234.   243.   237.   240.   211.   198.   197.   263.
+   221.   224.   214.   225.   229.   217.   225.   217.   220.   221.
+   203.   238.   249.   245.   226.   226.   215.   196.   242.   221.
+   235.   208.   232.   216.   217.   245.   205.   227.   207.   239.
+   200.   205.   231.   214.   215.   186.   223.   213.   208.   213.
+   224.   206.   231.   217.   211.   227.   210.   215.   192.   180.
+   195.   182.   188.   202.   191.   184.   161.   168.   176.   177.
+   200.   162.   187.   190.   157.   172.   186.   184.   164.   161.
+   163.   158.   170.   175.   160.   173.   136.   176.   178.   181.
+   140.   165.   173.   132.   158.   159.   161.   165.   162.   183.
+   171.   168.   176.   168.   156.   156.   173.   168.   118.   152.
+   147.   148.   155.   164.   185.   135.   138.   143.   125.   169.
+   145.   134.   144.   115.   150.   134.   157.   134.   132.   135.
+   145.   140.   133.   156.   132.   144.   143.   131.   146.   121.
+   140.   146.   126.   122.   136.   118.   130.   136.   118.   131.
+   153.   142.   143.   138.   131.   135.   135.   133.   144.   180.
+   172.   159.   152.   166.   149.   163.   168.   170.   168.   153.
+   174.   179.   150.   158.   144.   168.   145.   151.   167.   156.
+   164.   186.   175.   146.   173.   134.   140.   192.   159.   132.
+   139.   147.   146.   143.   162.   159.   162.   158.   154.   168.
+   173.   137.   159.   142.   162.   136.   157.   168.   150.   159.
+   138.   140.   172.   143.   137.   124.   139.   126.   134.   126.
+   140.   134.   137.   167.   156.   133.   139.   135.   155.   144.
+   151.   153.   125.   146.   123.   139.   131.   147.   129.   139.
+   140.   155.   148.   133.   149.   136.   122.   124.   131.   154.
+   131.   159.   130.   156.   123.   125.   144.   149.   141.   117.
+   125.   124.   133.   142.   130.   130.   120.   112.   121.   140.
+   128.   100.   111.   134.   112.   134.   134.   130.   123.   111.
+   123.   115.   134.   124.   134.   120.   121.   125.   126.   126.
+   122.   108.   117.   110.   114.   114.   124.   110.   117.   120.
+   128.   125.   153.   131.   120.   117.   115.   137.     0.     0.]
+Total events saved: 142951
+I put evnts 0 - 142951 into /mnt/scratch/yushiqi2/flattening/300G/AllIC/splitted/NuMu_genie_149999_83_IC_level6.zst_cleanedpulses_transformed_IC78lt005_CC_contained_start_contained_end_flat_500bins_20000evtperbin.hdf5
+Saved:  ['features DC', 'features IC', 'labels', 'weights', 'initial stats', 'number of pulses per DOM', 'trigger times', 'output label names', 'output transform factors', 'input transform factors']

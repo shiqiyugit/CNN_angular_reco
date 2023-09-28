@@ -1,0 +1,9 @@
+#!/bin/bash --login
+
+
+source ~/Documents/setup_combo_stable.sh
+
+python /mnt/home/yushiqi2/Analysis/LowEnergyNeuralNetwork/data_pre/i3_to_hdf5.py -i /mnt/research/IceCube/yushiqi2/Files/Flat_Zenith/level6_oldgcd/0/NuMu_genie_149999_030000_level6.zst -o /mnt/research/IceCube/yushiqi2/Files/Flat_Zenith/level6_hdf5_oldgcd/hdf5_allIC/0/ --icring "all,all,all,all"
+
+
+exit $?

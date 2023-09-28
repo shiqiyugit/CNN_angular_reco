@@ -1,0 +1,17 @@
+#!/bin/bash --login
+
+########### SBATCH Lines for Resource Request ##########
+
+#SBATCH --time=03:59:00             # limit of wall clock time - how long the job will run (same as -t)
+#SBATCH --nodes=1                 # number of different nodes - could be an exact number or a range of nodes (same as -N)
+#SBATCH --mem-per-cpu=800G            # memory required per allocated CPU (or core) - amount of memory (in bytes)
+#SBATCH --job-name make_testfile    # you can give your job a name for easier identification (same as -J)
+#SBATCH --output maketest.log
+
+########### Command Lines to Run ##########
+
+INDIR=/mnt/home/yushiqi2/Analysis/LowEnergyNeuralNetwork/data_pre
+
+python $INDIR/make_test_file.py 
+
+

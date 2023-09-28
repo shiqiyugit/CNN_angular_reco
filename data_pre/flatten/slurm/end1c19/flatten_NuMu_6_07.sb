@@ -1,0 +1,19 @@
+#!/bin/bash --login
+
+########### SBATCH Lines for Resource Request ##########
+
+#SBATCH --time=23:59:00             # limit of wall clock time - how long the job will run (same as -t)
+#SBATCH --nodes=1                 # number of different nodes - could be an exact number or a range of nodes (same as -N)
+#SBATCH --mem-per-cpu=100G            # memory required per allocated CPU (or core) - amount of memory (in bytes)
+#SBATCH --job-name make_uncontained_even_events    # you can give your job a name for easier identification (same as -J)
+#SBATCH --output job_logs/NuMu_genie_149999_6_07_level6.zst_cleanedpulses_transformed_IC19
+########### Command Lines to Run ##########
+
+INDIR=/mnt/home/yushiqi2/Analysis/LowEnergyNeuralNetwork/data_pre
+
+source /mnt/home/yushiqi2/Documents/setup_anaconda.sh
+
+python $INDIR/flatten_zenith_distribution.py -i NuMu_genie_149999_0????6_level6.zst_cleanedpulses_transformed_IC19.hdf5 -d /mnt/scratch/yushiqi2/training_files/7th/ -o NuMu_genie_149999_6_07_level6.zst_cleanedpulses_transformed_IC19 --max_per_bin 5600 --cuts CC --num_out 1 --start "all_start" --end "end_IC19" --transformed --shuffle --emax 300 -od /mnt/research/IceCube/yushiqi2/Files/Flat_Zenith/flattening/300G/end_IC19/ --emin 5
+
+exit $?
+

@@ -1,0 +1,19 @@
+#!/bin/bash --login
+
+########### SBATCH Lines for Resource Request ##########
+
+#SBATCH --time=0:20:00             # limit of wall clock time - how long the job will run (same as -t)
+#SBATCH --nodes=1                 # number of different nodes - could be an exact number or a range of nodes (same as -N)
+#SBATCH --mem=10GB            # memory required per allocated CPU (or core) - amount of memory (in bytes) 200M
+#SBATCH --job-name final_retro      # you can give your job a name for easier identification (same as -J)
+#SBATCH --output /mnt/home/yushiqi2/Analysis/LowEnergyNeuralNetwork/data_pre/official/log/oscNext_genie_level6.5_v02.00_pass2.160000.000143.i3.zst.i3.bz2.log
+
+########### Command Lines to Run ##################
+
+eval `/cvmfs/icecube.opensciencegrid.org/py2-v3.1.1/setup.sh`
+
+outname=oscNext_genie_level7_v02.00_pass2.160000.000143
+
+/cvmfs/icecube.opensciencegrid.org/users/Oscillation/software/oscNext_meta/releases/V01-00-05/build__py2-v3.1.1__osgvo-el7/env-shell.sh python /mnt/home/yushiqi2/Analysis/LowEnergyNeuralNetwork/data_pre/official/RunL7.py  -i oscNext_genie_level6.5_v02.00_pass2.160000.000143.i3.zst.i3.bz2 -o $outname -id /mnt/research/IceCube/yushiqi2/Files/Zenith_i3_output/official_L6.5/160000/ -od /mnt/scratch/yushiqi2/L7_nu/
+
+exit $?

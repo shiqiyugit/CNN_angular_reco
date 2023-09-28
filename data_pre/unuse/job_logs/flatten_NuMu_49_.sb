@@ -1,0 +1,24 @@
+#!/bin/bash --login
+
+########### SBATCH Lines for Resource Request ##########
+
+#SBATCH --time=03:59:00             # limit of wall clock time - how long the job will run (same as -t)
+#SBATCH --nodes=1                 # number of different nodes - could be an exact number or a range of nodes (same as -N)
+#SBATCH --mem-per-cpu=400G            # memory required per allocated CPU (or core) - amount of memory (in bytes)
+#SBATCH --job-name ICs    # you can give your job a name for easier identification (same as -J)
+#SBATCH --output job_logs/NuMu_genie_149999_49_level6.zst_cleanedpulses_transformed_IC78_CC_contained_start_contained_end_flat_70evt_500bin
+########### Command Lines to Run ##########
+
+INDIR=/mnt/home/yushiqi2/Analysis/LowEnergyNeuralNetwork/data_pre/unuse
+
+source /mnt/home/yushiqi2/Documents/setup_anaconda.sh
+
+#python $INDIR/flatten_zenith_energy_distribution.py -i NuMu_genie_149999_49_IC_level6.zst_cleanedpulses_transformed_IC78lt005_CC_contained_start_contained_end_flat_500bins_20000evtperbin.hdf5 -d "/mnt/scratch/yushiqi2/flattening/300G/AllIC/splitted/" -o NuMu_genie_149999_49_level6.zst_cleanedpulses_transformed_IC78_CC_contained_start_contained_end_flat_70evt_500bin --max_per_bin 70 --cuts CC --num_out 1 --start "contained_start" --end "contained_end" --transformed --shuffle --var_max 500 -od /mnt/scratch/yushiqi2/flattening/300G/AllIC/splitted/flat/ --var_min 1 
+python $INDIR/flatten_zenith_energy_distribution.py -i NuMu_genie_149999_49_IC_level6.zst_cleanedpulses_transformed_IC78lt005_CC_contained_start_contained_end_flat_500bins_20000evtperbin.hdf5 -d "/mnt/scratch/yushiqi2/flattening/300G/AllIC/splitted/" -o NuMu_genie_149999_49_level6.zst_cleanedpulses_transformed_IC78_CC_contained_start_contained_end_flat_70evt_500bin --max_per_bin 70 --cuts CC --num_out 1 --start "contained_start" --end "contained_end" --transformed --shuffle --var_max 500 -od /mnt/scratch/yushiqi2/flattening/300G/AllIC/splitted/flat/ --var_min 1 --split
+
+#--split
+#--split --slim
+
+
+exit $?
+

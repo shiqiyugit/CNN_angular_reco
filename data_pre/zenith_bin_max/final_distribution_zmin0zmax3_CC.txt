@@ -1,0 +1,7 @@
+Minimum bin value 0 events at 3 GeV
+Cutting there gives total events: 0
+Bin	 Energy	 Number Events
+0	0	1967008
+1	1	5352538
+2	2	2546455
+3	3	42535

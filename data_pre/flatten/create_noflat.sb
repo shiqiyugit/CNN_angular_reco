@@ -1,0 +1,32 @@
+#!/bin/bash
+
+FLV="Mu"
+NUM=14
+BIN_MAX=7750
+#BIN_MAX=6960
+#BIN_MAX=6285 #500000
+
+CUTS="CC"
+DIR="/mnt/scratch/yushiqi2/hdf5_allIC/" #/mnt/research/IceCube/yushiqi2/Files/Flat_Zenith/level6_hdf5_oldgcd/hdf5_allIC/"
+#OUTDIR="/mnt/research/IceCube/yushiqi2/Files/Flat_Zenith/non_flat/"
+OUTDIR="/mnt/research/IceCube/yushiqi2/Files/Flat_Zenith/flattening/AllIC/"
+#IC19startend/"
+
+for IND in 0 1 2 3 4 5 6 7 8 9;
+  do
+    INDIR=$DIR${IND}/
+    FILENUM=`printf "%01d\n" $IND`
+#    infile=NuMu_genie_149999_${FILENUM}_${FILENUM}_level6.zst_cleanedpulses_transformed_IC19lt003_CC_all_start_all_end_flat_101bins_30000evtperbin.hdf5
+    infile=NuMu_genie_149999_0????${IND}_level6.zst_cleanedpulses_transformed_IC78.hdf5
+    name=flatten_Nu${FLV}_genie_${NUM}9999_level6.zst_cleanedpulses_transformed_IC78_${IND}_10
+    
+    sed -e "s|@@infile@@|${infile}|g" \
+        -e "s|@@bin_max@@|$BIN_MAX|g" \
+        -e "s|@@name@@|${name}|g" \
+        -e "s|@@cuts@@|${CUTS}|g" \
+        -e "s|@@dir@@|${INDIR}|g"\
+        -e "s|@@outdir@@|${OUTDIR}|g"\
+        < job_template_final.sb > slurm/Nu${FLV}_${FILENUM}.sb
+done
+#        < job_template_final.sb > slurmcontained/flatten_Nu${FLV}_${FILENUM}.sb
+

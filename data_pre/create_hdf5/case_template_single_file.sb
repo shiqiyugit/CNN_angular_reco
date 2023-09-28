@@ -1,0 +1,9 @@
+#!/bin/bash --login
+
+
+source ~/Documents/setup_combo_stable.sh
+
+python /mnt/home/yushiqi2/Analysis/LowEnergyNeuralNetwork/data_pre/i3_to_hdf5.py -i @@file@@ -o @@OUTPUT_DIR@@ --icring "all,none,none,none" --reco
+
+
+exit $?

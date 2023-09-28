@@ -1,0 +1,49 @@
+Keeping CC event types
+Saving PEGLEG info: False 
+Bin size: 0.010000 GeV 
+Max Count Per Bin: 70 events 
+Energy Range: 0.010000 - 5.000000 
+Starting cut: contained_start 
+Ending cut: contained_end 
+Shuffling: True 
+Keeping event types: CC
+Assuming file is already transformed by 100.000000 for energy and 200.000000 for track, and zenith
+Total events this file: 140959
+Total events saved: 34860, Saved this file: 34860, Finsihed file: /mnt/scratch/yushiqi2/flattening/300G/AllIC/splitted/NuMu_genie_149999_19_IC_level6.zst_cleanedpulses_transformed_IC78lt005_CC_contained_start_contained_end_flat_500bins_20000evtperbin.hdf5
+Finished concatonating all the files. Now I will shuffle..
+Testing on 0.00 percent of data
+Vadilating on 20.00 percent of training data
+training only on 27888 samples, validating on 6972 samples, testing on 0 samples
+[70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70.
+ 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70.
+ 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70.
+ 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70.
+ 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70.
+ 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70.
+ 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70.
+ 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70.
+ 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70.
+ 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70.
+ 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70.
+ 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70.
+ 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70.
+ 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70.
+ 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70.
+ 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70.
+ 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70.
+ 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70.
+ 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70.
+ 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70.
+ 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70.
+ 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70.
+ 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70.
+ 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70.
+ 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70.
+ 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70.
+ 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70.
+ 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70. 70.  0.  0.]
+Total events saved: 27888
+1 test events per 1 file(s)
+I put 0 - 0 test events into /mnt/scratch/yushiqi2/flattening/300G/AllIC/splitted/flat/NuMu_genie_149999_19_level6.zst_cleanedpulses_transformed_IC78_CC_contained_start_contained_end_flat_70evt_500bin_energy_0to5_CC_contained_start_contained_end_flat_500bins_70evtperbin.hdf5
+I put 0 - 27888 train events and 0 - 6972 validate events into /mnt/scratch/yushiqi2/flattening/300G/AllIC/splitted/flat/NuMu_genie_149999_19_level6.zst_cleanedpulses_transformed_IC78_CC_contained_start_contained_end_flat_70evt_500bin_energy_0to5_CC_contained_start_contained_end_flat_500bins_70evtperbin.hdf5
+Saved:  ['test', 'weights', 'train', 'validation', 'output label names', 'output transform factors', 'input transform factors']
