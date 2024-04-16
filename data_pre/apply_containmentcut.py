@@ -5,9 +5,9 @@ import os, sys
 import argparse
 
 parser = argparse.ArgumentParser()
-parser.add_argument("-i", "--input_file",default='flatten_NuMu_genie_149999_E0to3_CC_all_start_all_end_flat_101bins_36170evtperbin_file00.hdf5',
+parser.add_argument("-i", "--input_file",default='flat_zenith_E0to3_all_all_start_all_end_flat_101bins_10evtperbin_file01.hdf5', 
                     type=str,dest="input_file", help="name for ONE input file")
-parser.add_argument("-d", "--path",type=str,default='/mnt/research/IceCube/yushiqi2/Files/Flat_Zenith/level6_hdf5_oldgcd/300G/',
+parser.add_argument("-d", "--path",type=str,default='example/', 
                     dest="path", help="path to input files")
 parser.add_argument("--tmax",type=float,default=200.0,
                     dest="tmax",help="Multiplication factor for track length")
