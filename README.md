@@ -4,6 +4,8 @@ Branched off from https://github.com/jessimic/LowEnergyNeuralNetwork
 
 Easier and cleaner to teach students for angular reconstruction. To retain history or more reco using FLERCNN, check out the original github 
 
+Singularity container has both icetray and tensorflow installed and can be used for training/testing can be found on cobalt: /data/ana/LE/oscNext/flercnn_sample_analysis/flercnn_reco/icetray_stable-tensorflow.sif
+
 Source environment first:
 ```source setup_combo_stable.sh```
 Data preparation:
