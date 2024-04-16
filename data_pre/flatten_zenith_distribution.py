@@ -29,13 +29,13 @@ import math
 from handle_data import Shuffler
 
 parser = argparse.ArgumentParser()
-parser.add_argument("-i", "--input_files",default='NuMu_genie_149999_01024?_level6.zst_cleanedpulses_transformed_IC19.hdf5',
+parser.add_argument("-i", "--input_files",default='NuMu_genie_149999_0?????_level6.zst_cleanedpulses_transformed_IC19.hdf5', 
                     type=str,dest="input_files", help="names for input files")
 parser.add_argument("--add_file",default=None,
                     type=str,dest="add_file", help="different named file to add")
-parser.add_argument("-d", "--path",type=str,default='/mnt/scratch/yushiqi2/training_files/5th/',
+parser.add_argument("-d", "--path",type=str,default='create_hdf5/example/',
                     dest="path", help="path to input files")
-parser.add_argument("-od", "--out_path",type=str,default='/mnt/research/IceCube/yushiqi2/Files/Flat_Zenith/flattening/300G/end_IC19',
+parser.add_argument("-od", "--out_path",type=str,default='create_hdf5/example/',
                     dest="out_path", help="path to output files")
 parser.add_argument("-o", "--output",type=str,default='flat_zenith',
                     dest="output", help="names for output files")
@@ -43,7 +43,7 @@ parser.add_argument("-r", "--reco",default=False,action='store_true',
                     dest="reco", help="use flag if you want to read in old reco array")
 parser.add_argument("-b", "--bin_size",type=float,default=0.0314,
                     dest="bin_size", help="Size of zenith bins in ")
-parser.add_argument("--max_per_bin",type=int,default=100000,
+parser.add_argument("--max_per_bin",type=int,default=10,
                     dest="max_evt_per_bin",help="Max number of zenith events per bin")
 parser.add_argument("--emax",type=float,default=300.0,
                     dest="emax",help="Cut anything greater than this energy (in GeV)")
