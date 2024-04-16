@@ -13,6 +13,6 @@
 source ../../../setup_combo_stable.sh
 
 #python ../../i3_to_hdf5.py -i @@file@@ -o @@OUTPUT_DIR@@ --icring "all,none,none,none"
-
+python ../../i3_to_hdf5.py -i /data/ana/LE/oscNext_Zenith/level6/ABC/0/NuMu_genie_149999_030000_level6.zst -o ./
 
 exit $?
