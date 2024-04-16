@@ -1,4 +1,0 @@
-/cvmfs/icecube.opensciencegrid.org/users/Oscillation/software/oscNext_meta/releases/V01-00-05/build__py2-v3.1.1__osgvo-el7/lib/sklearn/base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.19.2 when using version 0.20.4. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-Working on /mnt/research/IceCube/yushiqi2/Files/Zenith_i3_output/official_L6.5/160000/oscNext_genie_level6.5_v02.00_pass2.160000.000091.i3.zst.i3.bz2
-Loaded model from file : /cvmfs/icecube.opensciencegrid.org/users/Oscillation/software/oscNext_meta/releases/V01-00-05/src/oscNext/resources/models/pid_model_train_26FEB20_ready-for-processing_unosc-honda_5vars.joblib
