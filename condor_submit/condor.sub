@@ -5,7 +5,7 @@ requirements = CUDACapability
 Request_gpus = 1
 Request_memory = 10GB
 Request_disk = 250MB
-+OriginalTime=1200
++OriginalTime=30
 getenv = true
 +TransferOutput = ""
 
