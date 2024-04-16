@@ -33,9 +33,9 @@ parser.add_argument("-i", "--input_files",default='NuMu_genie_149999_0?????_leve
                     type=str,dest="input_files", help="names for input files")
 parser.add_argument("--add_file",default=None,
                     type=str,dest="add_file", help="different named file to add")
-parser.add_argument("-d", "--path",type=str,default='create_hdf5/example/',
+parser.add_argument("-d", "--path",type=str,default='example/',
                     dest="path", help="path to input files")
-parser.add_argument("-od", "--out_path",type=str,default='create_hdf5/example/',
+parser.add_argument("-od", "--out_path",type=str,default='example/',
                     dest="out_path", help="path to output files")
 parser.add_argument("-o", "--output",type=str,default='flat_zenith',
                     dest="output", help="names for output files")
