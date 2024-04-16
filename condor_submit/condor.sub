@@ -1,0 +1,24 @@
+Universe   = vanilla
+Executable = run_training.sh
+request_memory = 20 GB
+requirements = CUDACapability
+Request_gpus = 1
+Request_memory = 10GB
+Request_disk = 250MB
++OriginalTime=1200
+getenv = true
++TransferOutput = ""
+
+#use_x509userproxy = true
+Requirements = (OpSysMajorVer =?= 7)
+
+# Forces _all_ jobs to run inside singularity.
+#SINGULARITY_JOB = true
+
+# Forces all jobs to use the CernVM-based image.
+#SINGULARITY_IMAGE_EXPR = "/home/users/syu/icetray_stable-tensorflow.sif"
+#+AccountingGroup="1_week.$ENV(USER)"
+Log        = simple.log
+Output     = simple.out
+Error      = simple.error
+Queue
