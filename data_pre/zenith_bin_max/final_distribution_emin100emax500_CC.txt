@@ -1,3 +1,0 @@
-Cutting there gives total events: 0
-Bin	 Energy	 Number Events
-Polygon1002((100, 0) ...)	100	11666
