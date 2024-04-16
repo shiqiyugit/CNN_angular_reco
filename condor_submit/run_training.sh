@@ -1,8 +1,8 @@
 #!/bin/bash --login
 INPUT="flat_zenith_E0to3_all_all_start_all_end_flat_101bins_10evtperbin_file0?_contained.hdf5"
-INDIR="/data/user/shiqiyu/CNN_angular_reco/condor_submit/data_pre/example/"
+INDIR="/data/user/shiqiyu/CNN_angular_reco/data_pre/example/"
 
-OUTDIR="/data/user/shiqiyu/CNN_angular_reco/condor_submit/data_pre/example/"
+OUTDIR="/data/user/shiqiyu/CNN_angular_reco/data_pre/example/"
 NUMVAR=1
 LR_EPOCH=10 #120
 LR_DROP=0.8 #0.55
