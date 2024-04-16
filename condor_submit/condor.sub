@@ -1,23 +1,21 @@
 Universe   = vanilla
 Executable = run_training.sh
-request_memory = 20 GB
 requirements = CUDACapability
 Request_gpus = 1
-Request_memory = 10GB
+Request_memory = 4GB
 Request_disk = 250MB
-+OriginalTime=30
++OriginalTime=10
 getenv = true
 +TransferOutput = ""
 
 #use_x509userproxy = true
-Requirements = (OpSysMajorVer =?= 7)
-
+#Requirements = (OpSysMajorVer =?= 7)
+requirements = HasSingularity && HAS_CVMFS_icecube_opensciencegrid_org
 # Forces _all_ jobs to run inside singularity.
 #SINGULARITY_JOB = true
 
 # Forces all jobs to use the CernVM-based image.
-#SINGULARITY_IMAGE_EXPR = "/home/users/syu/icetray_stable-tensorflow.sif"
-#+AccountingGroup="1_week.$ENV(USER)"
++SingularityImage = "/data/ana/LE/oscNext/flercnn_sample_analysis/flercnn_reco/icetray_stable-tensorflow.sif"
 Log        = simple.log
 Output     = simple.out
 Error      = simple.error
