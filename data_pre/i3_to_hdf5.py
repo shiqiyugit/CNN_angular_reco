@@ -30,11 +30,11 @@ import glob
 
 ## Create ability to change settings from terminal ##
 parser = argparse.ArgumentParser()
-parser.add_argument("-i", "--input",type=str,default="/mnt/research/IceCube/yushiqi2/Files/Flat_Zenith/level6_oldgcd/1st/NuMu_genie_149999_00????_level6.zst",
+parser.add_argument("-i", "--input",type=str,default="/data/ana/LE/oscNext_Zenith/level6/ABC/0/NuMu_genie_149999_0001??_level6.zst",
                     dest="input_file", help="path and name of the input file")
 parser.add_argument("-n", "--name",default=None,
                     dest="output_name",help="name for output file (no path)")
-parser.add_argument("-o", "--outdir",type=str,default='/mnt/research/IceCube/yushiqi2/Files/Flat_Zenith/level6_hdf5/',
+parser.add_argument("-o", "--outdir",type=str,default='./hdf5',
                     dest="output_dir", help="path of ouput file")
 parser.add_argument("-r", "--reco",default=False,action='store_true',
                     dest="reco", help="True if using Level5p or have a pegleg reco")
