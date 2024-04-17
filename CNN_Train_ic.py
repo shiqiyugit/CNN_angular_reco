@@ -168,14 +168,17 @@ print("Starting at epoch: %s \nTraining until: %s epochs \nTraining on %s variab
 afile = file_names[0]
 f = h5py.File(afile, 'r')
 X_train_DC = f['X_train_DC'][:]
+X_train_IC = f['X_train_IC'][:]
+
+'''
 X_train_IC1 = f['X_train_IC1'][:]
 X_train_IC2 = f['X_train_IC2'][:]
 X_train_IC3 = f['X_train_IC3'][:]
-
+'''
 f.close()
 del f
 print("Train Data DC", X_train_DC.shape)
-print("Train Data IC", X_train_IC1.shape)
+#print("Train Data IC", X_train_IC1.shape)
 
 # LOAD MODEL
 from utils.cnn_model import make_network, make_network_DC, make_network_3D, scaled_sigmoid
@@ -197,7 +200,7 @@ else:
     print("PICK A NETWORK TO TRAIN")
     quit()
 
-del X_train_DC,X_train_IC1, X_train_IC2, X_train_IC3
+del X_train_DC,X_train_IC#1, X_train_IC2, X_train_IC3
 
 # WRITE OWN LOSS FOR MORE THAN ONE REGRESSION OUTPUT
 from keras.optimizers import SGD
@@ -237,9 +240,9 @@ for epoch in range(start_epoch,end_epoch):
     f = h5py.File(input_file, 'r')
     Y_train = f['Y_train'][:]
     X_train_DC = f['X_train_DC'][:]
-    X_train_IC1 = f['X_train_IC1'][:]
-    X_train_IC2 = f['X_train_IC2'][:]
-    X_train_IC3 = f['X_train_IC3'][:]
+    X_train_IC = f['X_train_IC'][:]
+#    X_train_IC2 = f['X_train_IC2'][:]
+#    X_train_IC3 = f['X_train_IC3'][:]
 
     print("done converting training set")
 
@@ -247,9 +250,9 @@ for epoch in range(start_epoch,end_epoch):
     z_validate_weight = None
 
     X_validate_DC = f['X_validate_DC'][:]
-    X_validate_IC1 = f['X_validate_IC1'][:]
-    X_validate_IC2 = f['X_validate_IC2'][:]
-    X_validate_IC3 = f['X_validate_IC3'][:]
+    X_validate_IC = f['X_validate_IC'][:]
+#    X_validate_IC2 = f['X_validate_IC2'][:]
+#    X_validate_IC3 = f['X_validate_IC3'][:]
 
     Y_validate = f['Y_validate'][:]
 
@@ -286,9 +289,9 @@ for epoch in range(start_epoch,end_epoch):
     #Run one epoch with dataset
     t0_epoch = time.time()
     print("strat training...")
-    if network == "make_network_DC":
-          network_history = model_DC.fit([X_train_DC], Y_train, sample_weight=z_train_weight,
-                            validation_data= ([X_validate_DC], Y_validate, z_validate_weight),
+    if network == "make_network":
+          network_history = model_DC.fit([X_train_DC, X_train_IC], Y_train, sample_weight=z_train_weight,
+                            validation_data= ([X_validate_DC, X_validate_IC], Y_validate, z_validate_weight),
                             batch_size=batch_size,
                             initial_epoch= epoch,
                             epochs=epoch+1, #goes from intial to epochs, so need it to be greater than initial
@@ -330,8 +333,8 @@ for epoch in range(start_epoch,end_epoch):
       model_save_name = "%s%s_%iepochs_model.hdf5"%(save_folder_name,filename,epoch+1)
       model_DC.save(model_save_name)
       print("Saved model to %s"%model_save_name)
-      
-    del X_train_DC, X_train_IC1, X_train_IC2, X_train_IC3, X_validate_DC, X_validate_IC1, X_validate_IC2, X_validate_IC3
+    del X_train_DC, X_train_IC, X_validate_DC, X_validate_IC      
+#    del X_train_DC, X_train_IC1, X_train_IC2, X_train_IC3, X_validate_DC, X_validate_IC1, X_validate_IC2, X_validate_IC3
     del Y_train, Y_validate, z_train_weight
 
 t1 = time.time()

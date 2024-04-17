@@ -7,7 +7,6 @@ Request_disk = 250MB
 +OriginalTime=10
 getenv = true
 +TransferOutput = ""
-
 #use_x509userproxy = true
 #Requirements = (OpSysMajorVer =?= 7)
 requirements = HasSingularity && HAS_CVMFS_icecube_opensciencegrid_org
