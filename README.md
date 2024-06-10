@@ -18,5 +18,9 @@ data_pre/create_hdf5/ has some scripts ```.sh``` are for submitting to clusters 
 * CNN_Train_ic.py is the script for training. You can use singularity to train and test CNN on any machine has GPU
 * ```CNN_angular_reco/condor_submit/``` has the example of run_training.sh to train the CNN and submit_condor.sub can be used to submit from sub-1 to npx to get a GPU node for training, which is requested. sub-1 can not access ```/data/``` area, so copy over entire ```condor_submit/``` to your home directory which is shared between ```/data/``` and npx
    * run ```ssh sub-1``` will get you to submission script, from there run ```condor_submit condor.sub ```. can check the status using ```condor_q``` or check the outcome file ```simple.err or simple.out```
-   
+
+Install environments locally using anaconda:
+conda 4.10.1
+python 3.8.5
+conda env create -f conda_tfgpu_env.yml
 
