@@ -20,7 +20,7 @@ data_pre/create_hdf5/ has some scripts ```.sh``` are for submitting to clusters 
    * run ```ssh sub-1``` will get you to submission script, from there run ```condor_submit condor.sub ```. can check the status using ```condor_q``` or check the outcome file ```simple.err or simple.out```
 
 Install environments locally using anaconda:
-conda 4.10.1
-python 3.8.5
-conda env create -f conda_tfgpu_env.yml
+conda 4.10.1;
+python 3.8.5;
+```conda env create -f conda_tfgpu_env.yml```
 
